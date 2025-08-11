@@ -1,7 +1,7 @@
 package m;
 import javax.swing.JOptionPane;
 
-public class SalaryQualifier {
+public class CaseStudy1 {
 
     public static void main(String[] args) {
         // Ask for annual salary
@@ -48,3 +48,4 @@ public class SalaryQualifier {
         );
     }
 }
+
