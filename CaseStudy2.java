@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class SalesReport {
+public class CaseStudy2 {
 
     public static void main(String[] args) throws IOException {
         String filename = getFileName();
@@ -50,4 +50,5 @@ public class SalesReport {
         );
         JOptionPane.showMessageDialog(null, msg, "Message", JOptionPane.INFORMATION_MESSAGE);
     }
+
 }
